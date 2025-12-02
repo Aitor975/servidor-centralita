@@ -1,0 +1,31 @@
+/* Fondo general y texto */
+body {
+  background-color: #b30000; /* fondo del color rojo oscuro */
+  color: #000000; /* texto negro */
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Párrafos */
+p {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+/* Divisiones */
+div {
+  padding: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Títulos */
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+/* Listas */
+ul, ol {
+  margin-left: 20px;
+}
+
